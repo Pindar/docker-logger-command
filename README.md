@@ -5,7 +5,7 @@ Run logger within a docker container
 
 So instead of running
 
-    $ logger my message
+    $ logger --help
 
 You can run 
 
